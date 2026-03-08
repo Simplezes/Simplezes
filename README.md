@@ -1,19 +1,50 @@
 <div align="center">
-
+<img src="https://readme-typing-svg.demolab.com?font=Consolas&size=60&duration=3000&pause=1200&color=FFFFFF&center=true&vCenter=true&width=600&lines=%3C+Simplezes+%3E">
+<h3 style="font-family:consolas">I like to make tools.<br>
+Mostly aviation, racing or whatever else seems interesting to make.</h3>
 <picture>
-  <img src="https://pixel-profile.vercel.app/api/github-stats?username=Simplezes&pixelate_avatar=false&screen_effect=false&dithering=true&color=%2351eefc&background=url('https%3A%2F%2Fi.ibb.co%2FcKdyxpK1%2FUntitled.png')">
+<img
+src="https://pixel-profile.vercel.app/api/github-stats?username=Simplezes&pixelate_avatar=false&screen_effect=false&dithering=false&color=%2351eefc&background=url('https%3A%2F%2Fi.ibb.co%2FcKdyxpK1%2FUntitled.png')"
+/>
 </picture>
+<br>
+<h2>Projects</h2>
+<table align="center">
+<tr>
+<td align="center" width="250">
+
+### StripCol
+Flight strip manager for Vatsim Colombia
 
 <a href="https://github.com/Simplezes/StripCol">
-  <img src="https://img.shields.io/badge/StripCol-Manager-51eefc?style=for-the-badge&logo=github&logoColor=white" height="40"/>
+<img src="https://img.shields.io/badge/Open%20Project-51eefc?style=for-the-badge&logo=github&logoColor=black">
 </a>
+</td>
+
+<td align="center" width="250">
+
+### StripCol-Euroscope
+EuroScope plugin for StripCol enabling real-time aircraft and controller synchronization via WebSocket gateway.
 
 <a href="https://github.com/Simplezes/StripCol-Euroscope">
-  <img src="https://img.shields.io/badge/StripCol--Euroscope-Plugin-ff77aa?style=for-the-badge&logo=github&logoColor=white" height="40"/>
+<img src="https://img.shields.io/badge/Open%20Project-ff77aa?style=for-the-badge&logo=github&logoColor=white">
 </a>
+</td>
+
+<td align="center" width="250">
+
+### LeManStudio
+Web-based suite designed to create setups for Le Mans Ultimate.
 
 <a href="https://github.com/Simplezes/LeManStudio">
-  <img src="https://img.shields.io/badge/LeManStudio-Racing-00aaff?style=for-the-badge&logo=github&logoColor=white" height="40"/>
+<img src="https://img.shields.io/badge/Open%20Project-00aaff?style=for-the-badge&logo=github&logoColor=white">
 </a>
-
+</td>
+</tr>
+</table>
+<h2>Languages</h2>
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+</p>
 </div>
