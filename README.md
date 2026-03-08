@@ -10,10 +10,10 @@ src="https://pixel-profile.vercel.app/api/github-stats?username=Simplezes&pixela
 <br>
 <h2>Projects</h2>
 <a href="https://github.com/Simplezes/StripCol">
-<img src="https://img.shields.io/badge/StripCol-51eefc?style=for-the-badge&logo=github&logoColor=black">
+<img src="https://img.shields.io/badge/StripCol-1269cc?style=for-the-badge&logo=github&logoColor=black">
 </a>
-<a href="https://github.com/Simplezes/LeManStudio">
-<img src="https://img.shields.io/badge/LeManStudio-00aaff?style=for-the-badge&logo=github&logoColor=white">
+<a href="https://github.com/Simplezes/LabMotorsportSandbox">
+<img src="https://img.shields.io/badge/LabMotorsportSandbox-6d9ac7?style=for-the-badge&logo=github&logoColor=white">
 </a>
 <a href="https://github.com/Simplezes/StripCol-Euroscope">
 <img src="https://img.shields.io/badge/StripCol_Euroscope-ff77aa?style=for-the-badge&logo=github&logoColor=white">
