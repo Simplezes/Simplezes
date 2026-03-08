@@ -9,39 +9,15 @@ src="https://pixel-profile.vercel.app/api/github-stats?username=Simplezes&pixela
 </picture>
 <br>
 <h2>Projects</h2>
-<table align="center">
-<tr>
-<td align="center" width="250">
-
-### StripCol
-Flight strip manager for Vatsim Colombia
-
 <a href="https://github.com/Simplezes/StripCol">
-<img src="https://img.shields.io/badge/Open%20Project-51eefc?style=for-the-badge&logo=github&logoColor=black">
+<img src="https://img.shields.io/badge/StripCol-51eefc?style=for-the-badge&logo=github&logoColor=black">
 </a>
-</td>
-
-<td align="center" width="250">
-
-### StripCol-Euroscope
-EuroScope plugin for StripCol enabling real-time aircraft and controller synchronization via WebSocket gateway.
-
-<a href="https://github.com/Simplezes/StripCol-Euroscope">
-<img src="https://img.shields.io/badge/Open%20Project-ff77aa?style=for-the-badge&logo=github&logoColor=white">
-</a>
-</td>
-
-<td align="center" width="250">
-
-### LeManStudio
-Web-based suite designed to create setups for Le Mans Ultimate.
-
 <a href="https://github.com/Simplezes/LeManStudio">
-<img src="https://img.shields.io/badge/Open%20Project-00aaff?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/LeManStudio-00aaff?style=for-the-badge&logo=github&logoColor=white">
 </a>
-</td>
-</tr>
-</table>
+<a href="https://github.com/Simplezes/StripCol-Euroscope">
+<img src="https://img.shields.io/badge/StripCol_Euroscope-ff77aa?style=for-the-badge&logo=github&logoColor=white">
+</a>
 <h2>Languages</h2>
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
