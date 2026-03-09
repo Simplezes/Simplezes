@@ -9,15 +9,26 @@ src="https://pixel-profile.vercel.app/api/github-stats?username=Simplezes&pixela
 </picture>
 <br>
 <h2>Projects</h2>
-<a href="https://github.com/Simplezes/StripCol">
-<img src="https://img.shields.io/badge/StripCol-1269cc?style=for-the-badge&logo=github&logoColor=black">
-</a>
-<a href="https://github.com/Simplezes/LabSetup">
-<img src="https://img.shields.io/badge/LabSetup-6d9ac7?style=for-the-badge&logo=github&logoColor=white">
-</a>
-<a href="https://github.com/Simplezes/StripCol-Euroscope">
-<img src="https://img.shields.io/badge/StripCol_Euroscope-ff77aa?style=for-the-badge&logo=github&logoColor=white">
-</a>
+<table align="center">
+<tr>
+<td align="center" width="300">
+<a href="https://github.com/Simplezes/StripCol"><b>StripCol</b></a><br>
+ATC strip management tool for VatCol
+</td>
+<td align="center" width="300">
+<a href="https://github.com/Simplezes/LapSetup"><b>LapSetup</b></a><br>
+Web-based suite designed to create setups for Le Mans Ultimate.
+</td>
+</tr>
+<tr>
+<td align="center" width="300">
+<a href="https://github.com/Simplezes/StripCol-Euroscope"><b>StripCol Euroscope</b></a><br>
+EuroScope plugin for StripCol
+</td>
+<td align="center" width="300">
+</td>
+</tr>
+</table>
 <h2>Languages</h2>
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
