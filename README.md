@@ -12,8 +12,8 @@ src="https://pixel-profile.vercel.app/api/github-stats?username=Simplezes&pixela
 <a href="https://github.com/Simplezes/StripCol">
 <img src="https://img.shields.io/badge/StripCol-1269cc?style=for-the-badge&logo=github&logoColor=black">
 </a>
-<a href="https://github.com/Simplezes/LabMotorsportSandbox">
-<img src="https://img.shields.io/badge/LabMotorsportSandbox-6d9ac7?style=for-the-badge&logo=github&logoColor=white">
+<a href="https://github.com/Simplezes/LabSetup">
+<img src="https://img.shields.io/badge/LabSetup-6d9ac7?style=for-the-badge&logo=github&logoColor=white">
 </a>
 <a href="https://github.com/Simplezes/StripCol-Euroscope">
 <img src="https://img.shields.io/badge/StripCol_Euroscope-ff77aa?style=for-the-badge&logo=github&logoColor=white">
