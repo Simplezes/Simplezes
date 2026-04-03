@@ -26,8 +26,8 @@ Web-based suite designed to create setups for Le Mans Ultimate.
 EuroScope plugin for StripCol
 </td>
 <td align="center" width="300">
-<a href="https://github.com/Simplezes/Euroscope-Coordinates-Reducer"><b>Euroscope Coordinates Reducer</b></a><br>
-Optimization tool for TopSky and GroundRadar map files.
+<a href="https://github.com/Simplezes/Stripcol-server"><b>Stripcol Server</b></a><br>
+Backend server designed for EuroScope plugin Stripcol.
 </td>
 </tr>
 </table>
