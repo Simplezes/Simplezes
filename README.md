@@ -26,8 +26,8 @@ Web-based suite designed to create setups for Le Mans Ultimate.
 EuroScope plugin for StripCol
 </td>
 <td align="center" width="300">
-<a href="https://github.com/Simplezes/Stripcol-server"><b>Stripcol Server</b></a><br>
-Backend server designed for EuroScope plugin Stripcol.
+<a href="https://github.com/Simplezes/Crown-Guild"><b>Crown Guild</b></a><br>
+Website that makes it easy to track and share your Monster Hunter crowns.
 </td>
 </tr>
 </table>
