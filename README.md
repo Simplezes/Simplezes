@@ -22,8 +22,8 @@ Web-based suite designed to create setups for Le Mans Ultimate.
 </tr>
 <tr>
 <td align="center" width="300">
-<a href="https://github.com/Simplezes/StripCol-Euroscope"><b>StripCol Euroscope</b></a><br>
-EuroScope plugin for StripCol
+<a href="https://github.com/Simplezes/Gouge"><b>Gouge</b></a><br>
+Minecraft mod that allows you to slam your pickaxe into a wall mid-fall to slow your descent 
 </td>
 <td align="center" width="300">
 <a href="https://github.com/Simplezes/Crown-Guild"><b>Crown Guild</b></a><br>
