@@ -1,10 +1,9 @@
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Consolas&size=60&duration=3000&pause=1200&color=FFFFFF&center=true&vCenter=true&width=600&lines=%3C+Simplezes+%3E">
 <h3 style="font-family:consolas">I like to make tools.<br>
 Mostly aviation, racing or whatever else seems interesting to make.</h3>
 <picture>
 <img
-src="https://pixel-profile.vercel.app/api/github-stats?username=Simplezes&pixelate_avatar=false&screen_effect=false&dithering=false&color=%2351eefc&background=url('https%3A%2F%2Fi.ibb.co%2FcKdyxpK1%2FUntitled.png')"
+src="https://pixel-profile.vercel.app/api/github-stats?username=Simplezes&pixelate_avatar=false&screen_effect=false&dithering=false&color=%23ffff&background=url('https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2679460/page_bg_raw.jpg')"
 />
 </picture>
 <br>
