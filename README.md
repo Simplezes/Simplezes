@@ -15,8 +15,8 @@ src="https://pixel-profile.vercel.app/api/github-stats?username=Simplezes&pixela
 ATC strip management tool for VatCol
 </td>
 <td align="center" width="300">
-<a href="https://github.com/Simplezes/LapSetup"><b>LapSetup</b></a><br>
-Web-based suite designed to create setups for Le Mans Ultimate.
+<a href="https://github.com/Simplezes/"><b>Thinking...</b></a><br>
+Idk. I'll think of something.
 </td>
 </tr>
 <tr>
